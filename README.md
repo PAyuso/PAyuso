@@ -8,6 +8,18 @@
 ## 🧠 About Me
 
 
+## 📚 Publications
+
+- **[Title of Paper 1]()**  
+  *Authors:* Your Name, Collaborator A, Collaborator B  
+  *Conference:* IEEE AVSS 2025 – Accepted  
+  _Brief description or contribution highlight._
+
+- **[Title of Paper 2]()**  
+  *Authors:* Your Name, etc.  
+  *ArXiv Preprint*, 2024  
+  _Generated synthetic data using textual prompts to enhance pedestrian attribute recognition._
+
 
 ## 🚀 My Projects
 
