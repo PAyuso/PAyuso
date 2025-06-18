@@ -10,24 +10,28 @@
 
 ## 📚 Publications
 
-- **[Title of Paper 1]()**  
-  *Authors:* Your Name, Collaborator A, Collaborator B  
+- **[Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data
+Generation: A Comparative Study with Image-To-Image Diffusion Models]()**  
+  *Authors:* Pablo Ayuso-Albizu, Juan C. SanMiguel, Pablo Carballeira.
   *Conference:* IEEE AVSS 2025 – Accepted  
-  _Brief description or contribution highlight._
+  _Brief._
 
-- **[Title of Paper 2]()**  
-  *Authors:* Your Name, etc.  
-  *ArXiv Preprint*, 2024  
-  _Generated synthetic data using textual prompts to enhance pedestrian attribute recognition._
+- **[A Data-Centric Approach to Pedestrian Attribute Recognition:
+Synthetic Augmentation via Prompt-driven Diffusion Models]()**  
+  *Authors:* Alejandro Alonso, Sawaiz A. Chaudhry, Juan C. SanMiguel1, Alvaro García-Martín, Pablo Ayuso-Albizu, Pablo Carballeira.  
+  *Conference:* IEEE AVSS 2025 – Accepted 
+  _Brief._
 
 
 ## 🚀 My Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🌀 diffusion-research](https://github.com/your-username/diffusion-research) | Experiments with diffusion models and PAR | PyTorch, Diffusers |
-| [🖼️ image-augmentation-suite](https://github.com/your-username/image-augmentation-suite) | A toolkit for synthetic data generation | Python, OpenCV |
-| [📊 dataviz-dash](https://github.com/your-username/dataviz-dash) | Lightweight data visualization dashboard | Dash, Plotly |
+| [🌀 img2img PAR generation by diffusion]() | Experiments with diffusion models and PAR | PyTorch, Diffusers |
+| [📊 txt2img PAR generation by diffusion]() | Lightweight data visualization dashboard | Dash, Plotly |
+| [🖼️ Rethinking](https://github.com/PAyuso/Rethinking_of_PAR_paa) | A toolkit for synthetic data generation | Python, OpenCV |
+| [📊 Attribute PAR analysis]() | Lightweight data visualization dashboard | Dash, Plotly |
+
 
 
 ## 📫 Let's Connect
