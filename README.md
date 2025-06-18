@@ -17,9 +17,6 @@
 | [🖼️ image-augmentation-suite](https://github.com/your-username/image-augmentation-suite) | A toolkit for synthetic data generation | Python, OpenCV |
 | [📊 dataviz-dash](https://github.com/your-username/dataviz-dash) | Lightweight data visualization dashboard | Dash, Plotly |
 
----
-
----
 
 ## 📫 Let's Connect
 
