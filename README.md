@@ -27,9 +27,9 @@ Synthetic Augmentation via Prompt-driven Diffusion Models]()**
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🖼️ Rethinking](https://github.com/PAyuso/Rethinking_of_PAR_synthetic/) | Experiments with synthetic data with PAR | Python, Pytorch |
 | [🌀 img2img PAR generation by diffusion]() | Experiments with diffusion models and PAR | PyTorch, Diffusers |
 | [📊 txt2img PAR generation by diffusion]() | Lightweight data visualization dashboard | Dash, Plotly |
-| [🖼️ Rethinking](https://github.com/PAyuso/Rethinking_of_PAR_paa) | A toolkit for synthetic data generation | Python, OpenCV |
 | [📊 Attribute PAR analysis]() | Lightweight data visualization dashboard | Dash, Plotly |
 
 
