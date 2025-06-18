@@ -38,14 +38,16 @@ Synthetic Augmentation via Prompt-driven Diffusion Models]()**
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🖼️ Rethinking](https://github.com/PAyuso/Rethinking_of_PAR_synthetic/) | Experiments with synthetic data with PAR | Python, Pytorch |
+| [🖼️ Rethinking](https://github.com/PAyuso/Rethinking_of_PAR_synthetic/) | Experiments with synthetic data with PAR | Python, Pytorch, Numpy |
 | [🌀 img2img PAR generation by diffusion]() | Experiments with diffusion models and PAR | PyTorch, Diffusers |
-| [📊 txt2img PAR generation by diffusion]() | Lightweight data visualization dashboard | Dash, Plotly |
-| [📊 Attribute PAR analysis]() | Lightweight data visualization dashboard | Dash, Plotly |
+| [📊 txt2img PAR generation by diffusion]() | Lightweight data visualization dashboard | Python, Pytorch |
+| [📊 Attribute PAR analysis]() |  | Dash, Plotly |
+| [📊 DAFUSION]() |  | Python, Pytorch |
+| [📊 DALDA]() |  | Dash, Plotly |
+| [📊 GIF]() |  | Dash, Plotly |
 
 
 ## 📫 Let's Connect
 
 - 📧 Email: pabels11@gmail.com / pablo.ayuso@estudiante.uam.es
-- 🌐 Portfolio: [PAyuso.github.io](https://PAyuso.github.io)
 - 🧷 LinkedIn: [https://www.linkedin.com/in/pablo-ayuso-albizu/]
