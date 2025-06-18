@@ -12,15 +12,13 @@
 
 - **[Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data
 Generation: A Comparative Study with Image-To-Image Diffusion Models]()**  
-  *Authors:* Pablo Ayuso-Albizu, Juan C. SanMiguel, Pablo Carballeira. 
-
+  *Authors:* Pablo Ayuso-Albizu, Juan C. SanMiguel, Pablo Carballeira.                                                             
   *Conference:* IEEE AVSS 2025 – Accepted  
   _Brief._
 
 - **[A Data-Centric Approach to Pedestrian Attribute Recognition:
 Synthetic Augmentation via Prompt-driven Diffusion Models]()**  
   *Authors:* Alejandro Alonso, Sawaiz A. Chaudhry, Juan C. SanMiguel, Alvaro García-Martín, Pablo Ayuso-Albizu, Pablo Carballeira.  
-
   *Conference:* IEEE AVSS 2025 – Accepted 
   _Brief._
 
