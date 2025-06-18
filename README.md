@@ -47,5 +47,5 @@ Synthetic Augmentation via Prompt-driven Diffusion Models]()**
 ## 📫 Let's Connect
 
 - 📧 Email: pabels11@gmail.com / pablo.ayuso@estudiante.uam.es
-- 🌐 Portfolio: [your-username.github.io](https://your-username.github.io)
-- 🐦 LinkedIn: 
+- 🌐 Portfolio: [PAyuso.github.io](https://PAyuso.github.io)
+- 🧷 LinkedIn: [https://www.linkedin.com/in/pablo-ayuso-albizu/]
