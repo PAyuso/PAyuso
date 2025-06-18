@@ -7,6 +7,16 @@
 
 ## 🧠 About Me
 
+Hi! I'm a PhD researcher specializing in **generative diffusion models**, with a strong background in **machine learning**, **embedded systems**, and software development using **Python** and **C**.
+
+My current research focuses on:
+- Enhancing the **efficiency** and **controllability** of diffusion-based models
+- Applying them to **Pedestrian Attribute Recognition (PAR)** to generate high-quality synthetic images
+- Addressing challenges of **data scarcity** and **attribute alignment** in visual recognition tasks
+
+🧑‍💼 I also worked as a **Software Developer at GMV**, where I contributed to the development of robust software solutions in real-world engineering and technology projects.
+
+🔧 Always exploring ideas at the intersection of AI, vision, and real-world applications.
 
 ## 📚 Publications
 
@@ -14,13 +24,13 @@
 Generation: A Comparative Study with Image-To-Image Diffusion Models]()**  
   *Authors:* Pablo Ayuso-Albizu, Juan C. SanMiguel, Pablo Carballeira.                                                             
   *Conference:* IEEE AVSS 2025 – Accepted  
-  _Brief._
+  _Exploring key points from diffusion models as strenght and scale with image to image pipeline. Also, prompt-image alignment and image properties. Moreover, three data augmentation methods based on diffusion models were explored and selected one to improve the system between 1-4% in mA._
 
 - **[A Data-Centric Approach to Pedestrian Attribute Recognition:
 Synthetic Augmentation via Prompt-driven Diffusion Models]()**  
   *Authors:* Alejandro Alonso, Sawaiz A. Chaudhry, Juan C. SanMiguel, Alvaro García-Martín, Pablo Ayuso-Albizu, Pablo Carballeira.  
   *Conference:* IEEE AVSS 2025 – Accepted 
-  _Brief._
+  _In this work is focus on text to image pipeline. Analysing which attributes should be generated. Also, a modification of the binary loss were introduced. The results shows that generating synthetic images could improve the attribute recognition._
 
 
 ## 🚀 My Projects
@@ -31,7 +41,6 @@ Synthetic Augmentation via Prompt-driven Diffusion Models]()**
 | [🌀 img2img PAR generation by diffusion]() | Experiments with diffusion models and PAR | PyTorch, Diffusers |
 | [📊 txt2img PAR generation by diffusion]() | Lightweight data visualization dashboard | Dash, Plotly |
 | [📊 Attribute PAR analysis]() | Lightweight data visualization dashboard | Dash, Plotly |
-
 
 
 ## 📫 Let's Connect
