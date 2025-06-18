@@ -24,13 +24,13 @@ OSPF (Orbit Determination and Synchronization Processing Facility) in the RTMC (
 - **[Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data
 Generation: A Comparative Study with Image-To-Image Diffusion Models]()**  
   *Authors:* Pablo Ayuso-Albizu, Juan C. SanMiguel, Pablo Carballeira.                                                             
-  *Conference:* IEEE AVSS 2025 – Accepted  
+  *Conference:* IEEE AVSS 2025 – Accepted                                                                                         
   _Exploring key points from diffusion models as strenght and scale with image to image pipeline. Also, prompt-image alignment and image properties. Moreover, three data augmentation methods based on diffusion models were explored and selected one to improve the system between 1-4% in mA._
 
 - **[A Data-Centric Approach to Pedestrian Attribute Recognition:
 Synthetic Augmentation via Prompt-driven Diffusion Models]()**  
   *Authors:* Alejandro Alonso, Sawaiz A. Chaudhry, Juan C. SanMiguel, Alvaro García-Martín, Pablo Ayuso-Albizu, Pablo Carballeira.  
-  *Conference:* IEEE AVSS 2025 – Accepted 
+  *Conference:* IEEE AVSS 2025 – Accepted                                                                                          
   _In this work is focus on text to image pipeline. Analysing which attributes should be generated. Also, a modification of the binary loss were introduced. The results shows that generating synthetic images could improve the attribute recognition._
 
 
