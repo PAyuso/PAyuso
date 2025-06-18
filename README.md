@@ -14,7 +14,8 @@ My current research focuses on:
 - Applying them to **Pedestrian Attribute Recognition (PAR)** to generate high-quality synthetic images
 - Addressing challenges of **data scarcity** and **attribute alignment** in visual recognition tasks
 
-🧑‍💼 I also worked as a **Software Developer at GMV**, where I contributed to the development of robust software solutions in real-world engineering and technology projects.
+🧑‍💼 I also worked as a **Software Developer at GMV**, where I contributed to the development of robust software solutions in Galileo (GNSS system) in the key part
+OSPF (Orbit Determination and Synchronization Processing Facility) in the RTMC (Real-Time Monitoring and Control) proyect.
 
 🔧 Always exploring ideas at the intersection of AI, vision, and real-world applications.
 
